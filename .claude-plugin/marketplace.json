@@ -1,7 +1,12 @@
 {
   "name": "my-plugins",
   "owner": {
-    "name": "Your Name"
+    "name": "Yan Cherepansky",
+    "email": "cherepansky.yan@yandex.ru"
+  },
+  "metadata": {
+    "description": "A collection of my custom plugins for various tasks",
+    "version": "1.0.0"
   },
   "plugins": [
     {
